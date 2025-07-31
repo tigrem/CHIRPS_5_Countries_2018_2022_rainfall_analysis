@@ -1,7 +1,4 @@
 pandas
-numpy
 matplotlib
 seaborn
-sklearn
-imbalanced-learn
-shap
+jupyter
